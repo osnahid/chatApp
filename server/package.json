@@ -1062,7 +1062,7 @@
       "resolved": "https://registry.npmjs.org/expand-tilde/-/expand-tilde-2.0.2.tgz",
       "version": "2.0.2"
     },
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "extend": {
       "dev": true,
       "integrity": "sha512-fjquC59cD7CyW6urNXK0FBufkZcoiGG80wTuPujX590cB5Ttln20E2UB4S/WARVqhXffZl2LNgS+gQdPIIim/g==",
